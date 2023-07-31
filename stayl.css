@@ -1,0 +1,29 @@
+.text {
+    color:#141221;
+    font-size: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.div {
+   font-style: italic; 
+   size: 40px;
+   color: rgb(94, 102, 109);
+   font-size: x-large;
+  }
+
+  .text2{
+    font-style: oblique;
+    
+    
+    size: 35%;
+    color: rgb(94, 102, 109);
+  }
+  .text3{
+   
+    padding-bottom: 0.5%;
+
+    
+padding-left: 30%;
+
+  }
+  
